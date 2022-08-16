@@ -3,5 +3,6 @@ A Python Program that generates a password that is a combination of lower case a
 GUI made using tkinter module and also allowed the user to copy the generated password using pyperclip module.
 
 #Screenshots
+
 ![](/screenshots/ss1.png)
 ![](/screenshots/ss2.png)
